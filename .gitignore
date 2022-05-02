@@ -29,7 +29,8 @@ share/python-wheels/
 *.log
 *.ipynb_checkpoints
 *.dat
-metastore_db
+metastore_db/
+*.yaml
 checkpoint/
 MANIFEST
 
