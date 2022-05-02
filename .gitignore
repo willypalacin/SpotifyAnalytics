@@ -27,7 +27,9 @@ share/python-wheels/
 .installed.cfg
 *.egg
 *.log
-.ipynb_checkpoints
+*.ipynb_checkpoints
+*.dat
+metastore_db
 checkpoint/
 MANIFEST
 
